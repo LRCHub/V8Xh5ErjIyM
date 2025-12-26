@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Lady Brown",
+  "base_artist": "Nujabes",
+  "createdAt": "2025-12-26T00:28:32.840837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lady Brown",
+      "artist": "Nujabes feat. Cise Starr",
+      "has_synced": true,
+      "path": "select/01_Lady_Brown_Nujabes_feat._Cise_Starr.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lady Brown",
+      "artist": "Nujabes feat. Cise Star",
+      "has_synced": true,
+      "path": "select/02_Lady_Brown_Nujabes_feat._Cise_Star.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lady Brown (feat. Cise Starr)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/03_Lady_Brown_(feat._Cise_Starr)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lady Brown",
+      "artist": "Nujabes Cise Starr",
+      "has_synced": true,
+      "path": "select/04_Lady_Brown_Nujabes_Cise_Starr.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lady Brown",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/05_Lady_Brown_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lady Brown (feat. Cise Starr)",
+      "artist": "Nujabes feat. Cise Starr from CYNE",
+      "has_synced": true,
+      "path": "select/06_Lady_Brown_(feat._Cise_Starr)_Nujabes_feat._Cise_Starr_from_CYNE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lady Brown (feat. Cise Starr from CYNE)",
+      "artist": "Nujabes, Cise Starr",
+      "has_synced": true,
+      "path": "select/07_Lady_Brown_(feat._Cise_Starr_from_CYNE)_Nujabes,_Cise_Starr.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lady Brown",
+      "artist": "Nujabes; Cise Star",
+      "has_synced": true,
+      "path": "select/08_Lady_Brown_Nujabes;_Cise_Star.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lady Brown (Clean Version) Ft. Cise Star",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/09_Lady_Brown_(Clean_Version)_Ft._Cise_Star_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lady Brown (Street Version) Ft. Cise Star",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/10_Lady_Brown_(Street_Version)_Ft._Cise_Star_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lady Brown (feat. Cise Starr from CYNE)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/11_Lady_Brown_(feat._Cise_Starr_from_CYNE)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lady Brown (ft. Cise Star)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/12_Lady_Brown_(ft._Cise_Star)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lady Brown (feat. Cise Star)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/13_Lady_Brown_(feat._Cise_Star)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lady Brown (feat. Cise Starr Form CYNE)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/14_Lady_Brown_(feat._Cise_Starr_Form_CYNE)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lady Brown (ft. Cise Starr)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/15_Lady_Brown_(ft._Cise_Starr)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lady Brown (Clean Version) (feat. Cise Starr)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/16_Lady_Brown_(Clean_Version)_(feat._Cise_Starr)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lady Brown (Street Version) (feat. Cise Starr)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/17_Lady_Brown_(Street_Version)_(feat._Cise_Starr)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lady Brown (Instrumental)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/18_Lady_Brown_(Instrumental)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lady Brown (clean version) (feat. Cise Starr)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/19_Lady_Brown_(clean_version)_(feat._Cise_Starr)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Lady Brown (street version) (feat. Cise Starr)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/20_Lady_Brown_(street_version)_(feat._Cise_Starr)_Nujabes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lady Brown",
+      "artist": "Nujabes",
+      "has_synced": false,
+      "path": "select/pl_01_Lady_Brown_Nujabes.txt"
+    }
+  ]
+}
