@@ -1,0 +1,92 @@
+# Nujabes – Lady Brown
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.18] Crush a coal to a diamond
+[00:20.57] Eyes forever shining
+[00:21.85] Your beauty alone inspire a niggah to rhyming
+[00:24.34] Thinking of the better things in life
+[00:25.86] Thinking of how I could persuade you to become my wife
+[00:28.35] Hand in hand as we floating over tropical sands
+[00:31.50] You my lady, I'm ya man
+[00:32.46] So let's futher advance to the next scene
+[00:34.78] Me sleeping next to you resting
+[00:35.91] You are the personification of all God's blessings
+[00:38.78] Coming to me in just one physical being
+[00:41.06] One physical dream that I wanna redeem
+[00:43.11] You're Voluptuous
+[00:44.34] Sweet caramel brown honeydew
+[00:45.81] Satin skin smooth to the touch, what a niggah do
+[00:48.27] So sensual
+[00:49.59] Her smile like a chemical extract of perfection
+[00:52.19] Rare mineral
+[00:53.39] She smell like a happy birthday on a Thursday
+[00:56.02] Quiet time love sleep in I wake early
+[01:14.52] 
+[00:58.04] Honey brown wit the long black hair
+[00:59.59] Teasing me with a kiss and a stare
+[01:01.55] Slight touch and you taking me there
+[01:03.55] So fine and it just ain't fair
+[01:05.10] So beautiful and so damn rare
+[01:19.60] 
+[01:07.19] She's angelic and energetic
+[01:08.82] Using sex as a weapon
+[01:10.09] I reckon that I'm confessing
+[01:11.56] Her body is just a blessing from God Down to earth
+[01:13.52] She needs to be in a church to prove that
+[01:15.42] We didn't spawn from fish but God's work
+[01:17.43] Hurts to see her clothed cause her body beholds
+[01:19.50] Secrets untold valued like platinum and gold
+[01:21.97] For she is the key to open my mind to see
+[01:24.26] The energy that radiates from the gates of heavenly bliss
+[01:27.54] I reminisce over touch and kiss
+[01:29.22] While you fucking a bitch I go make love to my miss
+[01:31.95] Never scandalous
+[01:32.90] It unanimous that the how i handled it
+[01:34.48] Lights off and candle lit rooms and glamorous
+[01:36.56] Yo I call you love sexual you look edible
+[01:39.28] Parallel snuggle up close intellectual
+[01:41.74] In a rendezvous who are you in wrap hairdo
+[01:44.49] No makeup in jean shorts open toe shoe
+[01:46.72] I wanna hold you mold ya soul I behold you
+[01:49.35] Know you better than myself never own you
+[01:51.67] But keep you never leave you
+[01:53.21] I beseech you
+[01:53.95] Gods gift to man is you wearing a see through
+[01:56.46] Riding Seadoos in Atlantic Ocean
+[01:58.43] Causing commotion
+[01:59.79] Lay you down going through the motions
+[02:01.54] Keep ya skin soft lotions got me coasting
+[02:03.10] Down pretty round brown thighs the candles low lit
+[02:28.10] 
+[02:06.23] Honey brown wit the long black hair
+[02:07.55] Teasing me with a kiss and a stare
+[02:09.38] Slight touch and you taking me there
+[02:11.26] So fine and it just ain't fair
+[02:13.23] So beautiful and so damn rare
+[02:27.73] 
+[02:16.03] Look at this agreeable
+[02:16.89] Delightful, delectable
+[02:18.15] Unforgettable
+[02:19.36] So sweet she may be edible
+[02:20.97] She needs a pedestal To step out of heaven you ready boo
+[02:23.13] Never hypothetical you factual and magical
+[02:25.62] Fuck theatrical
+[02:26.41] Baby girl because you actual
+[02:27.94] Physically your chemistry is so mathematical
+[02:30.56] Had to use academics to define your spirit
+[02:32.82] You lifting my limits
+[02:33.52] Your name off my tongue is a lyric
+[02:35.04] She's a compilation of my minds representation
+[02:36.92] Of a representative
+[02:38.27] Representing an excellent revelation of time and dedication
+[02:40.53] Never impatient
+[02:42.63] She know the deal
+[02:44.13] Revealed herself to me
+[02:44.99] So I can see Her heavenly ways
+[02:46.45] Her heavenly gaze
+[02:47.59] And plus it don't hurt that she has an ass for days
+[02:49.85] So as we lay I reminisce on the day that we met
+[02:52.89] Please god never let me forget
+```
